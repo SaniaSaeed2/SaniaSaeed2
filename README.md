@@ -1,6 +1,6 @@
 # 👩‍💻 Sania Saeed  
 
-💻 Software Engineering Student | 🌐 Frontend Developer | 🚀 Future Full-Stack Developer  
+**💻 Software Engineering Student | 🌐 Frontend Developer | 🚀 Future MERN Stack Developer**
 
 ---
 
@@ -9,7 +9,7 @@
 🎓 Software Engineering student with a strong interest in web development  
 💡 I build clean, responsive, and user-friendly web applications  
 🧩 I enjoy solving problems through code and creating practical solutions  
-💻 Comfortable working with modern frontend tools and development environments  
+💻 Focused on building modern web applications using the MERN stack 
 🐧 Experienced with Ubuntu terminal for development and project work  
 
 ---
@@ -86,7 +86,7 @@ Designed a personal portfolio website with a fully responsive layout to showcase
 
 ## 🎯 Career Goal  
 
-To grow as a Full-Stack Developer, creating scalable and efficient web applications that solve real-world problems while delivering seamless user experiences.  
+To grow as a MERN Stack Developer, creating scalable and efficient web applications that solve real-world problems while delivering seamless user experiences.  
 
 ---
 
